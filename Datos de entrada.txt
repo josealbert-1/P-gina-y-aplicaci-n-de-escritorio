@@ -1,0 +1,15 @@
+Base de datos: msbd
+Nombre de usuario: Admin
+Contraseña: CreadoresdeSoftware
+Nombre del sitio: MultiServi
+Nombre de tablas msbd_
+Correo electrónico: a170077@unach.mx
+
+http://localhost:8080/MultiServi/wp-admin/ 
+http://localhost:8080/MultiServi/
+
+
+Usuario2:
+
+Correo:a170041@unach.mx
+Contraseña: 12345
